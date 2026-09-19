@@ -25,7 +25,7 @@
 
 ## 🌐 Connect with Me
 
-[#-connect-with-me](#-connect-with-me)
+[](#-connect-with-me)
 
 <p align="left">
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -38,7 +38,7 @@
 
 ## 🖥️ Tech Stack
 
-[#️-tech-stack](#️-tech-stack)
+[](#️-tech-stack)
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -55,7 +55,7 @@
 
 ## My Skill Set
 
-[#my-skill-set](#my-skill-set)
+[](#my-skill-set)
 
 - **AI / ML** — Python, PyTorch, TensorFlow, OpenCV, LangChain, LLM integration, NLP, Computer Vision
 - **Voice & Automation** — AI voice agents, speech-to-text/text-to-speech pipelines, conversational flows
@@ -67,7 +67,7 @@
 
 ## 💼 Featured Work
 
-[#-featured-work](#-featured-work)
+[](#-featured-work)
 
 - 🔊 **AI Voice & NLP Systems** — LLM-integrated conversational pipelines for real client use cases
 - 🚗 **Drive Doctor** — LLM-powered vehicle diagnostics from natural language input `#LLM` `#NLP`
@@ -79,7 +79,7 @@
 
 ## 📊 GitHub Stats
 
-[#-github-stats](#-github-stats)
+[](#-github-stats)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
@@ -105,7 +105,7 @@
 
 ## 🤝 Let's Work Together
 
-[#-lets-work-together](#-lets-work-together)
+[](#-lets-work-together)
 
 I take on freelance and contract projects for **AI voice automation**, **websites**, and **custom AI applications**. If you're a business looking to automate operations or launch a product fast — let's talk.
 
