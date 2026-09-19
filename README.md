@@ -12,7 +12,7 @@
 
 ## About Me
 
-[#about-me](#about-me)
+[](#about-me)
 
 - 🎓 Software Engineering graduate, COMSATS University Islamabad
 - 🧠 Background in Computer Vision (autonomous drone swarms) and NLP/LLM voice systems
