@@ -18,7 +18,7 @@
 - 🧠 Background in Computer Vision (autonomous drone swarms) and NLP/LLM voice systems
 - 🚀 Currently running my own agency — building AI voice agents, websites & AI-powered apps for clients globally
 - 💼 Open to freelance/contract work — automation, LLM integration, full-stack builds
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **farhanameen003@gmail.com**
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
