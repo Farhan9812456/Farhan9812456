@@ -1,74 +1,117 @@
 <div align="center">
 
-# Hi, I'm Farhan 👋
-### AI Engineer | I build AI Voice Agents, Websites & Applications for businesses worldwide
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1e2327&height=200&section=header&text=Hi%20There,%20I'm%20Farhan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)](#)
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat-square&logo=vercel)](https://your-portfolio-link.com)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+
+### 🤖 AI Engineer building Voice Agents, Websites & AI Apps for businesses worldwide
 
 </div>
 
 ---
 
-## 🚀 What I Do
+## About Me
 
-I help businesses automate customer interactions and go online fast — with production-ready **AI voice agents**, **custom websites**, and **AI-powered applications**. I've worked on real-world AI systems ranging from autonomous drone swarms to NLP voice pipelines, and now bring that experience to client projects globally.
+[#about-me](#about-me)
 
-- 🤖 **AI Voice Agents** — inbound/outbound call automation, appointment booking, lead qualification
-- 🌐 **Websites & Web Apps** — fast, modern, conversion-focused builds
-- 🧠 **Custom AI Applications** — LLM integrations, chatbots, internal tools powered by AI
-- 🛠️ **End-to-end delivery** — from requirements to deployment
+- 🎓 Software Engineering graduate, COMSATS University Islamabad
+- 🧠 Background in Computer Vision (autonomous drone swarms) and NLP/LLM voice systems
+- 🚀 Currently running my own agency — building AI voice agents, websites & AI-powered apps for clients globally
+- 💼 Open to freelance/contract work — automation, LLM integration, full-stack builds
+- 📫 Reach me at: **your-email@example.com**
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+## 🌐 Connect with Me
+
+[#-connect-with-me](#-connect-with-me)
+
+<p align="left">
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://your-calendly-link.com"><img src="https://img.shields.io/badge/Book_a_Call-000000?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 🖥️ Tech Stack
+
+[#️-tech-stack](#️-tech-stack)
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
+
+## My Skill Set
+
+[#my-skill-set](#my-skill-set)
+
+- **AI / ML** — Python, PyTorch, TensorFlow, OpenCV, LangChain, LLM integration, NLP, Computer Vision
+- **Voice & Automation** — AI voice agents, speech-to-text/text-to-speech pipelines, conversational flows
+- **Frontend** — React, JavaScript, HTML5, CSS3, Tailwind CSS
+- **Backend** — Node.js, REST APIs, databases
+- **DevOps** — Git, Docker, AWS, deployment pipelines
 
 ---
 
 ## 💼 Featured Work
 
-### 🔊 AI Voice & NLP Systems
-Built voice processing and LLM-integrated conversational systems for real client use cases — from intent recognition to automated response generation.
+[#-featured-work](#-featured-work)
 
-### 🚗 Drive Doctor — LLM-Powered Vehicle Diagnostics
-A final-year project turned real system: diagnoses vehicle issues using natural language input, powered by LLMs.
-`#LLM` `#Diagnostics` `#NLP`
+- 🔊 **AI Voice & NLP Systems** — LLM-integrated conversational pipelines for real client use cases
+- 🚗 **Drive Doctor** — LLM-powered vehicle diagnostics from natural language input `#LLM` `#NLP`
+- 🛰️ **Swarm Drone Detection & Tracking** — computer vision for autonomous multi-drone detection & decision-making `#ComputerVision` `#Robotics`
 
-### 🛰️ Swarm Drone Detection & Tracking
-Computer vision system for autonomous multi-drone detection, tracking, and swarm decision-making — built during my time as a Computer Vision Engineer.
-`#ComputerVision` `#Autonomy` `#Robotics`
-
-> 📌 *Pin your top 3–4 repos below this section on your GitHub profile so recruiters/clients see the code, not just the description.*
+> 📌 Pin your top repos below your profile bio so this section links straight to working code.
 
 ---
 
-## 🧰 Tech Stack
+## 📊 GitHub Stats
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+[#-github-stats](#-github-stats)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🐍 Contribution Snake
 
-<div align="center">
+[#-contribution-snake](#-contribution-snake)
 
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
-</div>
+> Set up via the free [`platane/snk`](https://github.com/Platane/snk) GitHub Action — instructions below.
 
 ---
 
 ## 🤝 Let's Work Together
 
-I take on freelance and contract projects for AI voice automation, websites, and custom AI applications. If you're a business looking to automate operations or launch a product fast — let's talk.
+[#-lets-work-together](#-lets-work-together)
+
+I take on freelance and contract projects for **AI voice automation**, **websites**, and **custom AI applications**. If you're a business looking to automate operations or launch a product fast — let's talk.
 
 📧 **your-email@example.com** &nbsp;|&nbsp; 💬 [Book a call](https://your-calendly-link.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://your-portfolio-link.com)
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:58a6ff&height=100&section=footer)](#)
 
 </div>
