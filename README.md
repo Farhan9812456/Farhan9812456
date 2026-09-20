@@ -1,116 +1,154 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1e2327&height=200&section=header&text=Hi%20There,%20I'm%20Farhan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)](#)
+<!-- Header 3D Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There,%20I'm%20Farhan%20👋&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Expert%20%7C%20Builder&descAlignY=65&descAlign=50" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+<!-- Typing effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🤖+AI+Engineer+building+Voice+Agents;🌐+Creating+Websites+%26+AI+Apps;🚀+Helping+businesses+scale+with+AI" alt="Typing SVG" />
+</a>
 
-### 🤖 AI Engineer building Voice Agents, Websites & AI Apps for businesses worldwide
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" /> <!-- Animated line -->
+
+### 🚀 **Empowering Businesses Globally with AI and Modern Web Apps**
+
+<p align="center">
+<a href="mailto:farhanameen003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://your-calendly-link.com"><img src="https://img.shields.io/badge/Book_a_Call-2563EB?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td width="60%" valign="top">
+      <h2><img src="https://media.giphy.com/media/WUlplcMtHBhNZENeE2/giphy.gif" width="30"> About Me</h2>
+      <ul>
+        <li>🎓 <b>Software Engineering</b> graduate from COMSATS University Islamabad.</li>
+        <li>🧠 Deep expertise in <b>Computer Vision</b> (autonomous drone swarms) and <b>NLP/LLM</b> voice systems.</li>
+        <li>💼 Currently running my own agency — building AI voice agents, modern websites & AI-powered apps.</li>
+        <li>🤝 Open to freelance/contract work: automation, LLM integrations, full-stack builds.</li>
+        <li>📫 Reach me at: <b>farhanameen003@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" alt="3D coding character gif" />
+    </td>
+  </tr>
+</table>
 
-[](#about-me)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-- 🎓 Software Engineering graduate, COMSATS University Islamabad
-- 🧠 Background in Computer Vision (autonomous drone swarms) and NLP/LLM voice systems
-- 🚀 Currently running my own agency — building AI voice agents, websites & AI-powered apps for clients globally
-- 💼 Open to freelance/contract work — automation, LLM integration, full-stack builds
-- 📫 Reach me at: **farhanameen003@gmail.com**
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
-## 🌐 Connect with Me
-
-[](#-connect-with-me)
-
-<p align="left">
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://your-calendly-link.com"><img src="https://img.shields.io/badge/Book_a_Call-000000?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-## 🖥️ Tech Stack
-
-[](#️-tech-stack)
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-</p>
-
-## My Skill Set
-
-[](#my-skill-set)
-
-- **AI / ML** — Python, PyTorch, TensorFlow, OpenCV, LangChain, LLM integration, NLP, Computer Vision
-- **Voice & Automation** — AI voice agents, speech-to-text/text-to-speech pipelines, conversational flows
-- **Frontend** — React, JavaScript, HTML5, CSS3, Tailwind CSS
-- **Backend** — Node.js, REST APIs, databases
-- **DevOps** — Git, Docker, AWS, deployment pipelines
-
----
-
-## 💼 Featured Work
-
-[](#-featured-work)
-
-- 🔊 **AI Voice & NLP Systems** — LLM-integrated conversational pipelines for real client use cases
-- 🚗 **Drive Doctor** — LLM-powered vehicle diagnostics from natural language input `#LLM` `#NLP`
-- 🛰️ **Swarm Drone Detection & Tracking** — computer vision for autonomous multi-drone detection & decision-making `#ComputerVision` `#Robotics`
-
-> 📌 Pin your top repos below your profile bio so this section links straight to working code.
-
----
-
-## 📊 GitHub Stats
-
-[](#-github-stats)
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,js,react,html,css,tailwind,nodejs,docker,aws,git,bash,linux,vercel&perline=8" />
+  </a>
 </p>
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🤖 AI / ML</b></td>
+      <td align="center"><b>🗣️ Voice & Automation</b></td>
+    </tr>
+    <tr>
+      <td align="center">PyTorch, TensorFlow, OpenCV, LangChain, NLP</td>
+      <td align="center">AI Voice Agents, Speech-to-Text, Conversational AI</td>
+    </tr>
+    <tr>
+      <td align="center"><b>💻 Full-Stack Development</b></td>
+      <td align="center"><b>☁️ DevOps & Cloud</b></td>
+    </tr>
+    <tr>
+      <td align="center">React, Node.js, JS, HTML5/CSS3, Tailwind, APIs</td>
+      <td align="center">Git, Docker, AWS, CI/CD, Deployment pipelines</td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🏆 Featured Work & Projects
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/i8tqpeB5X2r5I3F94T/giphy.gif" width="80" />
+      <br><b>AI Voice Systems</b><br>
+      LLM-integrated conversational pipelines for real client use cases.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/1n7cOJIqEFTqQ6kI00/giphy.gif" width="80" />
+      <br><b>Drive Doctor</b><br>
+      LLM-powered vehicle diagnostics from natural language input.
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jIGsD6/giphy.gif" width="80" />
+      <br><b>Drone Swarm AI</b><br>
+      Computer vision for autonomous multi-drone detection & tracking.
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Farhan9812456&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farhan9812456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan9812456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan9812456&theme=tokyonight&hide_border=true&background=0D1117" height="195" />
+</div>
+
+<br>
+<h3 align="center">🐍 Contribution Snake</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farhan9812456/Farhan9812456/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farhan9812456/Farhan9812456/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Farhan9812456/Farhan9812456/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+> *Tip: For a 3D isometric contribution graph, check out [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) to set it up via Actions!*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🤝 Let's Work Together!
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+I take on freelance and contract projects for <b>AI voice automation</b>, <b>modern websites</b>, and <b>custom AI applications</b>. If you're a business looking to automate operations or launch a product fast — let's talk.
 </p>
 
----
+<div align="center">
+  <a href="mailto:farhanameen003@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-calendly-link.com">
+    <img src="https://img.shields.io/badge/Book_a_Call-2563EB?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+  </a>
+</div>
 
-## 🐍 Contribution Snake
-- uses: Platane/snk@v3
-  with:
-<p align="center">
-<img src="https://raw.githubusercontent.com/Farhan9812456/Farhan9812456/output/github-contribution-grid-snake.svg" />
-</p>
+<br>
 
-> Set up via the free [`platane/snk`](https://github.com/Platane/snk) GitHub Action — instructions below.
-
----
-
-## 🤝 Let's Work Together
-
-[](#-lets-work-together)
-
-I take on freelance and contract projects for **AI voice automation**, **websites**, and **custom AI applications**. If you're a business looking to automate operations or launch a product fast — let's talk.
-
-📧 **your-email@example.com** &nbsp;|&nbsp; 💬 [Book a call](https://your-calendly-link.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://your-portfolio-link.com)
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:58a6ff&height=100&section=footer)](#)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
